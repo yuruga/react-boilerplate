@@ -1,0 +1,23 @@
+div#mainapp {
+    padding: 0;
+    margin: 0;
+    div#contents {
+        padding: 0;
+        margin: 0;
+
+        div#header{
+            background-color: #448aca;
+            h1 {
+                color: #FFFFFF;
+                font-size: 30px;
+                padding: 10px;
+            }
+        }
+        div.inputs {
+            padding: 10px 20px;
+            input {
+                width: 100%;
+            }
+        }
+    }
+}
